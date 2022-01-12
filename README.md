@@ -1,0 +1,3 @@
+- Hi, I’m @Dudu1kg
+- I’m interested in ...
+- I’m currently learning C++ and python
