@@ -1,3 +1,4 @@
-- Hi, I’m @Dudu1kg
-- I’m interested in ...
-- I’m currently learning C++ and python
+I'm Carlos Careli, a highschooler interested in technology.
+
+- I’m currently learning python.
+
